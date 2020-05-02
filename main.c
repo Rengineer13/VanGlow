@@ -265,10 +265,10 @@ void main(void)
         
         Home('f');
         
-        motorController(100,15,1,3);
+        motorController(100,30,1,3);
         led0_SetHigh();
-        motorController(510,10,1,3);
-        motorController(510,10,2,4);
+        motorController(510,20,1,3);
+        motorController(510,20,2,4);
         
         led0_SetLow();
         
