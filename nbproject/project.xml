@@ -3,7 +3,7 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>VerificationTesting</name>
+            <name>VanGlow</name>
             <creation-uuid>ae25e66d-eb96-42e4-a9a1-34cfe8addc11</creation-uuid>
             <make-project-type>0</make-project-type>
             <c-extensions>c</c-extensions>
